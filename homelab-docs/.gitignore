@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+env.bak/
+
+# MkDocs build directory
+site/
+
+# Logs
+*.log
+
+# Fonts (si no quieres versionarlos, descomenta)
+# docs/fonts/
+
+# Secret config files
+secrets.yaml
+.env
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Node / frontend (si usas plugins avanzados)
+node_modules/
